@@ -32,7 +32,7 @@ quasar dev
 
 ## Build application using environment variable
 
-1. Add to `package.json` build scripts:
+1. Add build scripts to `package.json`:
 
 ```json
 {
