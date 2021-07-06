@@ -6,6 +6,7 @@ node_modules
 .quasar
 /dist
 
+
 # Cordova related directories and files
 /src-cordova/node_modules
 /src-cordova/platforms
@@ -27,6 +28,7 @@ yarn-error.log*
 
 # Editor directories and files
 .idea
+.vscode
 *.suo
 *.ntvs*
 *.njsproj
