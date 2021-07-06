@@ -23,7 +23,7 @@ export const API_SERVER = process.env.API_SERVER || 'https://dev.server.com/api'
 quasar dev
 ```
 
-4. Run application in dev mode to with defined environment variable `MY_API` :
+4. Run application in dev mode with defined environment variable `MY_API` :
 
 ```bash
 export MY_API="https://qa.server.com/api"
